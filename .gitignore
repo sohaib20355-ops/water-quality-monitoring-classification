@@ -1,0 +1,6 @@
+# Large datasets (>100 MB) exceed GitHub limits - kept locally
+Datasets/Water Quality Prediction.csv
+Datasets/Project Dataset/Water Quality Prediction.csv
+Datasets/Project Dataset/Water Quality Prediction altered.csv
+Datasets/*.zip
+~$*
